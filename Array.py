@@ -29,3 +29,6 @@ print (array, 4)
 cars.sort()
 print(cars)
 
+cars.sort(reverse= True)
+print(cars)
+
