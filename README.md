@@ -36,7 +36,7 @@
 
 `problem 13. print the array to the console`
 
-`problem 14. Sort the array in descending order`ca
+`problem 14. Sort the array in descending order`
 
 `problem 15. print the array to the console`
 
